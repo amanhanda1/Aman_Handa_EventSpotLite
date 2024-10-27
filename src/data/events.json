@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "eventName": "Concert in the Park",
+      "eventDate": "2024-11-15",
+      "location": "Central Park",
+      "description": "An open-air concert featuring local bands.",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Live8_London.jpg/800px-Live8_London.jpg"
+    },
+    {
+      "id": 2,
+      "eventName": "Art Exhibition",
+      "eventDate": "2024-11-20",
+      "location": "City Art Gallery",
+      "description": "A showcase of modern art by emerging artists.",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nSFVvQbtipxaO4YrJjfFouwCLutItd7WmQ&s"
+    }
+  ]
